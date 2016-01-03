@@ -17,7 +17,7 @@
 	</div>
 	<main id="main">
 	</main>
-	<p class="profile">created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying">v1.0.2 (Github)</a></p>
+	<p class="profile">created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;v1.0.2&nbsp;<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying" target="_blank">(Github)</a></p>
 </body>
 
 </html>
