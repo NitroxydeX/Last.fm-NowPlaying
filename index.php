@@ -8,16 +8,14 @@
 	<meta name="description" content="This is a fancy description.">
 	<meta name="keywords" content="lastfm,last,fm,music,listening,twitter,now,playing,np">
 	<link rel="stylesheet" type="text/css" href="css/meow.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<script src="js/loader.js"></script>
 </head>
 
 <body>
-	<div id="reload">
-		<?php require_once 'lastfm.php';?>
-	</div>
-	<main id="main">
-	</main>
-	<p class="profile">created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;v1.0.2&nbsp;<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying" target="_blank">(Github)</a></p>
+	<div id="reload"><?php require_once 'lastfm.php';?></div>
+	<main id="main"></main>
+	<p class="profile">created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;v1.0.3&nbsp;<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying" target="_blank">(Github)</a></p>
 </body>
 
 </html>
