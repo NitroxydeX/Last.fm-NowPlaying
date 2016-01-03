@@ -1,4 +1,4 @@
-# Now playing on Last.fm
+# Last.fm NowPlaying
 A crappy developed site to show which song is currently played on your last.fm profile.
 
 ###Settings
