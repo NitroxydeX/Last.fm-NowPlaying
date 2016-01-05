@@ -13,9 +13,16 @@
 </head>
 
 <body>
-	<div id="reload"><?php require_once 'lastfm.php';?></div>
-	<main id="main"></main>
-	<p class="profile">created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;v1.0.3&nbsp;<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying" target="_blank">(Github)</a></p>
+	<div id="reload">
+		<?php require_once 'lastfm.php';?>
+	</div>
+	<main id="main">
+		<div id="scrobble"></div>
+		<p class="profile">
+			created by <a href="//twitter.com/keintobi" target="_blank">@keintobi</a>&nbsp;//&nbsp;v1.0.4&nbsp;
+			<a href="https://github.com/tobiasreinhard/Last.fm-NowPlaying" target="_blank">(Github)</a>
+		</p>
+	</main>
 </body>
 
 </html>
