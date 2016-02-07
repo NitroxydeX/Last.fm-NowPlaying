@@ -10,10 +10,10 @@ Simply replace the word in "design.txt" with one of the following:
 
 Description = word to use
 
-Standard = orange
-You love music? Show it! = love
-Nordic Lights are beautiful, so we made a design´= nordiclights
-Get some summer feeling? = nature
+Standard = orange  
+You love music? Show it! = love  
+Nordic Lights are beautiful, so we made a design´= nordiclights  
+Get some summer feeling? = nature  
 Love Skylines? = skyscrapers
 
 ###Picture License
